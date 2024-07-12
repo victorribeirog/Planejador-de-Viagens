@@ -1,6 +1,6 @@
 # Planner
 
-Welcome to the Planner Trip project! This project is designed to help you manage your tasks and schedule efficiently.
+Welcome to the Planner Trip project! This web app is designed to help groups of friends plan their trips, log activities and share useful links, all in one place.
 
 ## Table of Contents
 
